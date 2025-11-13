@@ -1,13 +1,16 @@
 🚭 Tobacco Use and Mortality (2004–2015)
+
 *A Machine Learning and Data Analysis Project*
 
 
 📌 Project Overview
+
 This project analyzes the relationship between **tobacco use** and **mortality rates** in England using health data from **2004–2015**.  
 It combines data from multiple health sources (admissions, fatalities, smokers, metrics, prescriptions) to predict mortality likelihood using machine learning models.
 
 
  🧠 Objectives
+ 
 - Merge and clean multi-source tobacco-related datasets.
 - Perform visual **Exploratory Data Analysis (EDA)**.
 - Build and tune **Logistic Regression** and **Random Forest** models.
